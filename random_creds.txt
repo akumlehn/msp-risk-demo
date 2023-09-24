@@ -1,2 +1,2 @@
-access_key: AKIA6JTGXLAML2JNPG6L
-secret_key: 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
+access_key: nothing to see
+secret_key: nothing to see
